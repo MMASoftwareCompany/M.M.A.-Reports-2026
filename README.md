@@ -14,7 +14,7 @@
 
 ---
 
-## About M.M.A. Reports
+## About
 
 **M.M.A. Reports** is an integrated Windows-based reporting system designed and developed to provide software developers with a complete environment for creating, processing, executing, and displaying reports within their own software applications.
 
