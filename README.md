@@ -49,6 +49,14 @@ The License Agreement also permits redistribution of the required M.M.A. Reports
 | Location | Cairo, Egypt |
 | Email | MMASoftwareCompany@gmail.com |
 
+### Official Links & Contact
+
+- **Software Official Facebook Page:** [M.M.A. Reports](https://www.facebook.com/profile.php?id=61595658903074)
+- **Egyptian Geographic Magazine:** [Official Facebook Page](https://www.facebook.com/Geographic.Egn)
+- **Developer:** Mostapha Mahmoud Abd El-Salam
+- **Email:** [MMASoftwareCompany@gmail.com](mailto:MMASoftwareCompany@gmail.com)
+- **Official Website:** Coming Soon
+
 ### Copyright and Licensing
 
 Copyright © M.M.A. 2026  
