@@ -12,17 +12,50 @@
 
 ---
 
-M.M.A. Reports - Free Reporting
-( Engine - Designer - Viewer - Editor )
+## About M.M.A. Reports
 
+**M.M.A. Reports** is a professional Windows-based reporting system developed to provide software developers with an integrated environment for designing, processing, executing, and viewing reports.
 
-Version = 1.0.0, 2026
-Company = M.M.A. Software Company
-Country = Egypt, Cairo
-E-Mail  = MMASoftwareCompany@gmail.com
-Mobile  = 20-1098570165
+The system is built around four principal components:
 
-Copyright © 2026 M.M.A. All Rights Reserved.
-Locations :
-   • https://www.facebook.com/profile.php?id=61595658903074#
-   • https://www.facebook.com/Geographic.Egn
+- **Engine:** The core execution component responsible for processing and executing report definitions.
+- **Designer:** The report design environment used to create and organize report layouts.
+- **Viewer:** The component responsible for displaying generated reports.
+- **Scripting:** A scripting environment that extends report processing and provides additional programming capabilities.
+
+### Designed for Software Developers
+
+M.M.A. Reports is intended to be integrated into developers' own software applications, providing reporting capabilities without requiring them to develop an independent reporting system from the ground up.
+
+The Free Edition is provided free of charge and may be used for developing, testing, and publishing commercial or non-commercial software applications, subject to the terms of the accompanying License Agreement.
+
+### Ownership and Distribution Rights
+
+Developers retain full ownership of the applications, reports, report definitions, datasets, data, and scripts they create using M.M.A. Reports.
+
+The License Agreement also permits redistribution of the required M.M.A. Reports runtime components as an integral part of developers' own software applications, subject to its conditions.
+
+### Product Information
+
+| Property | Details |
+|---|---|
+| Product | M.M.A. Reports |
+| Version | 1.0.0 |
+| Edition | Free Edition |
+| Components | Engine • Designer • Viewer • Scripting |
+| Platform | Windows |
+| Developer | Mostapha Mahmoud Abd El-Salam |
+| Company | M.M.A. Software Company |
+| Location | Cairo, Egypt |
+| Email | MMASoftwareCompany@gmail.com |
+
+### Copyright and Licensing
+
+Copyright © M.M.A. 2026  
+All Rights Reserved.
+
+M.M.A. Reports is distributed under the **M.M.A. Reports Free Edition License Agreement**.
+
+The software is proprietary. Its source code and internal implementation are not included in the Free Edition.
+
+Use and redistribution of the software are governed by the complete License Agreement.
