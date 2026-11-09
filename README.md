@@ -4,138 +4,109 @@
 
 # M.M.A. Reports
 
-### Professional Reporting System
+### Professional Windows Reporting System
 
 **Free Edition | Engine • Designer • Viewer • Script Editor**
+
+**Version 1.0.0 | Free Edition**
 
 </div>
 
 ---
 
-# M.M.A. Reports 1.0.0
-### Engine • Designer • Viewer • Scripting
+## About M.M.A. Reports
 
-# LICENSE AGREEMENT
+**M.M.A. Reports** is an integrated Windows-based reporting system designed and developed to provide software developers with a complete environment for creating, processing, executing, and displaying reports within their own software applications.
 
-**FREE EDITION**
+The system brings together the essential tools and components required throughout the reporting process, from report design and organization to data processing, execution, and final presentation.
 
-**Copyright © 2026 M.M.A. All Rights Reserved.**
+Rather than being limited to displaying pre-generated documents, M.M.A. Reports provides developers with a dedicated reporting infrastructure that can be integrated into their software projects to deliver reporting capabilities as part of their own applications.
 
----
+## The M.M.A. Reports Architecture
 
-> **IMPORTANT – PLEASE READ CAREFULLY**
->
-> Please read this License Agreement carefully before installing, copying, or using M.M.A. Reports Free Edition. By installing, copying, or using the software, you acknowledge that you have read, understood, and agreed to the terms and conditions of this License Agreement.
+M.M.A. Reports consists of four principal components, each responsible for a specific part of the reporting workflow.
 
----
+### 1. Engine
 
-## ABOUT THE AUTHOR / DEVELOPER
+The core execution component of the system. It is responsible for processing report definitions and handling the execution of reporting operations.
 
-**M.M.A. Reports** was designed and developed by:
+### 2. Designer
+
+The design environment used to create and organize report layouts and their visual structure.
+
+### 3. Viewer
+
+The report presentation component, providing the environment required to display generated reports.
+
+### 4. Scripting
+
+The scripting environment, which provides additional programming capabilities for handling report-related operations and extending the system's functionality.
+
+Together, these components establish an integrated architecture for report design, processing, execution, and presentation.
+
+## Developed for Software Developers
+
+M.M.A. Reports is intended for developers who need to incorporate reporting capabilities into their own Windows applications.
+
+It provides an integrated set of reporting components that developers can use when building their software, allowing them to focus on their application's functionality while relying on M.M.A. Reports for its reporting requirements.
+
+The system is suitable for developing, testing, and publishing both commercial and non-commercial software applications.
+
+## Free Edition
+
+M.M.A. Reports 1.0.0 is distributed as a **Free Edition**, allowing developers to use its components without licensing fees.
+
+Developers are permitted to:
+
+- Use M.M.A. Reports in developing their own software applications.
+- Design and create reports for their applications.
+- Use the reporting components as part of their software projects.
+- Publish and distribute their applications for commercial or non-commercial purposes.
+- Redistribute the required M.M.A. Reports runtime files, including DLL and OCX components, as an integral part of their own applications.
+
+The applications, reports, report definitions, datasets, data, scripts, and other content created by developers remain their own property.
+
+Redistribution and use of M.M.A. Reports components are subject to the applicable Free Edition License Agreement.
+
+## About the Author / Developer
+
+M.M.A. Reports was designed and developed by:
 
 **Mostapha Mahmoud Abd El-Salam**  
-Systems Analyst and Software Developer.
+*Systems Analyst and Software Developer.*
 
-He is also the:
+He is also the founder and owner of:
 
-- Founder and Owner of **"Moktashefun"**, specializing in Documentary, Knowledge, Metaverse, and Software Production.
-- Founder of the **Egyptian Foundation for the Simplification of Science**.
-- Founder of **"Egyptian Geographic Magazine"** and its official website.
+- **Moktashefun:** An initiative specializing in Documentary, Knowledge, Metaverse, and Software Production.
+- **Egyptian Foundation for the Simplification of Science:** Founder.
+- **Egyptian Geographic Magazine:** Founder of the magazine and its website.
 
-**Official Websites and Pages:**
+## Product Information
 
-- **Official Website:** COMING SOON.
-- **M.M.A. Reports – Official Facebook Page:** [https://www.facebook.com/profile.php?id=61595658903074](https://www.facebook.com/profile.php?id=61595658903074)
-- **Egyptian Geographic Magazine – Official Facebook Page:** [https://www.facebook.com/Geographic.Egn](https://www.facebook.com/Geographic.Egn)
+| Property | Details |
+|---|---|
+| Product Name | M.M.A. Reports |
+| Version | 1.0.0 |
+| Edition | Free Edition |
+| Platform | Windows |
+| Architecture | Engine • Designer • Viewer • Scripting |
+| Developer | Mostapha Mahmoud Abd El-Salam |
+| Company | M.M.A. Software Company |
+| Location | Cairo, Egypt |
+| Copyright | © 2026 M.M.A. All Rights Reserved. |
 
----
+## Official Links & Contact
 
-## 1. Grant of License
+- **M.M.A. Reports – Official Facebook Page:** https://www.facebook.com/profile.php?id=61595658903074
+- **Egyptian Geographic Magazine – Official Facebook Page:** https://www.facebook.com/Geographic.Egn
+- **Official Website:** Coming Soon.
+- **Email:** MMASoftwareCompany@gmail.com
+- **Mobile:** +20 109 857 0165
 
-M.M.A. grants you a non-exclusive, non-transferable license to use the Free Edition of M.M.A. Reports for the purpose of developing, testing, and publishing your own software applications.
+## License & Intellectual Property
 
-## 2. Free Use
+M.M.A. Reports is proprietary software. The Free Edition is distributed without source code and is governed by the **M.M.A. Reports Free Edition License Agreement**.
 
-The Free Edition of M.M.A. Reports is provided free of charge.
+All rights relating to M.M.A. Reports, including its software components, source code, internal implementation, algorithms, architectural design, product names, and associated logos, are reserved by M.M.A.
 
-You are permitted to use the software components to develop your own applications and reports without paying any licensing fees for the use of the Free Edition.
-
-## 3. Redistribution
-
-You are permitted to redistribute the runtime files required by M.M.A. Reports, including the necessary DLL and OCX files, together with your own software applications, provided that you comply with all of the following conditions:
-
-1. M.M.A. Reports files may only be distributed as an integral part of your own software applications.
-2. You may not sell, license, or distribute M.M.A. Reports files as a standalone product.
-3. You may not claim ownership of M.M.A. Reports or any of its components.
-4. You may not modify, reverse engineer, decompile, disassemble, or create derivative versions of any M.M.A. Reports components.
-5. You may not remove or alter any copyright notices, trademarks, or other proprietary notices included in M.M.A. Reports.
-
-## 4. Ownership of Your Software Applications
-
-You retain full ownership rights to the software applications and reports you create using M.M.A. Reports.
-
-You are permitted to distribute your applications for commercial or non-commercial purposes, subject to the terms and conditions of this License Agreement.
-
-## 5. Ownership of Reports and Data
-
-You retain full ownership rights to all reports, report definitions, data datasets, data, scripts, and any other content you create using M.M.A. Reports.
-
-M.M.A. does not claim ownership of your application data or the content of your reports.
-
-## 6. Prohibited Uses
-
-You may not engage in any of the following activities:
-
-- Redistributing M.M.A. Reports as a standalone report-generation product.
-- Selling M.M.A. Reports DLL, OCX, or EXE files separately from your own software applications.
-- Creating a competing report engine based on M.M.A. Reports.
-- Modifying or republishing any M.M.A. Reports components.
-- Removing any copyright or proprietary notices.
-- Using M.M.A. Reports to provide a hosted reporting service in which the M.M.A. Reports components themselves are made available as an independent service, unless you obtain separate authorization from M.M.A.
-
-## 7. Source Code
-
-The Free Edition does not include the source code of M.M.A. Reports.
-
-This License Agreement grants you the right to use only the compiled components of the software. It does not grant you any ownership or other rights relating to the source code, internal implementation, algorithms, or architectural design of M.M.A. Reports.
-
-## 8. Disclaimer of Warranty
-
-M.M.A. Reports is provided **"AS IS"**, without warranties of any kind, whether express or implied.
-
-M.M.A. makes no warranty that the software will be error-free or suitable for any particular purpose.
-
-## 9. Limitation of Liability
-
-To the maximum extent permitted by applicable law, M.M.A. shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of M.M.A. Reports.
-
-## 10. Updates and Future Releases
-
-M.M.A. may release future versions of M.M.A. Reports that include additional features, different license terms, or additional licensing options.
-
-This License Agreement applies specifically to version **1.0.0** of M.M.A. Reports distributed under this Agreement.
-
-## 11. Trademarks
-
-M.M.A. Reports, its product names, and associated logos are trademarks of M.M.A.
-
-This License Agreement does not grant you any rights to use M.M.A.'s trademarks or visual identity in any manner that implies endorsement, ownership, or partnership without obtaining prior written permission.
-
-## 12. Termination of License
-
-This License shall automatically terminate if you violate any of its terms and conditions.
-
-Upon termination of the License, you must cease using and distributing the M.M.A. Reports components, except where continued use is permitted by applicable law or under a separate written agreement.
-
-## 13. Acceptance of the Agreement
-
-By installing, copying, or using the Free Edition of M.M.A. Reports, you acknowledge that you have read, understood, and agreed to all the terms and conditions of this License Agreement.
-
----
-
-# M.M.A. Reports 1.0.0
-
-**FREE EDITION**
-
-**Copyright © 2026 M.M.A.**  
-**ALL RIGHTS RESERVED.**
+**Copyright © 2026 M.M.A. All Rights Reserved.**
