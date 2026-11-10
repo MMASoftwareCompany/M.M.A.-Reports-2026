@@ -28,50 +28,53 @@ Rather than being limited to displaying pre-generated documents, M.M.A. Reports 
 
 ## Key Features
 
-M.M.A. Reports provides an integrated reporting environment built around four main components: Engine, Designer, Viewer, and Script Editor.
+M.M.A. Reports combines four integrated components, providing developers with a complete environment for report design, data processing, execution, and presentation.
 
-### 1. Engine – Report Processing Engine
+### ⚙️ Engine – Report Processing Engine
+
+The core engine responsible for processing report data, performing calculations, and preparing reports for presentation and printing.
 
 - Supports database and data-file sources.
 - Accepts an external ADO Recordset or executes a SQL Query using a Connection String.
-- Provides data grouping and aggregation, including Sum, Average, Maximum, Minimum, Count, First, and Last.
+- Provides data grouping and aggregation functions:
+  `Sum`, `Average`, `Maximum`, `Minimum`, `Count`, `First`, and `Last`.
 - Supports mathematical formulas and expressions.
-- Handles report formatting and prepares reports for printing.
+- Handles report formatting and print preparation.
 
-### 2. Designer – Visual Report Designer
+### 🎨 Designer – Visual Report Designer
 
-- Provides an intuitive visual design environment with Drag & Drop functionality.
-- Allows adding and configuring report elements: Field, Label, Image, and Line.
-- Supports precise positioning and sizing of individual objects or multiple selected objects.
-- Includes seven standard report sections:
-  - Report Header
-  - Page Header
-  - Group Header
-  - Detail
-  - Group Footer
-  - Page Footer
-  - Report Footer
+A visual environment for creating, organizing, and customizing professional report layouts.
+
+- Intuitive Drag & Drop report design.
+- Supports four main report elements: `Field`, `Label`, `Image`, and `Line`.
+- Controls the position and size of individual objects or multiple selected objects.
+- Provides seven standard report sections:
+  `Report Header`, `Page Header`, `Group Header`, `Detail`, `Group Footer`, `Page Footer`, and `Report Footer`.
 - Supports nested report groups.
 - Allows saving, reopening, and editing report designs.
 
-### 3. Viewer – Report Viewer
+### 📄 Viewer – Report Viewer
+
+A dedicated environment for displaying, reviewing, printing, and exporting generated reports.
 
 - Displays reports page by page.
 - Provides page navigation and zoom controls.
-- Supports report preview before printing.
+- Supports previewing reports before printing.
 - Allows direct printing.
-- Supports exporting reports to multiple formats, including PDF, XML, XLS, and other formats.
+- Supports exporting reports to multiple formats, including `PDF`, `XML`, `XLS`, and others.
 
-### 4. Script Editor – Scripting Environment
+### 💻 Script Editor – Scripting Environment
+
+A built-in scripting environment that provides programming capabilities for report formulas and expressions.
 
 - Supports variables, constants, and arrays.
 - Provides mathematical and logical operations.
-- Supports conditional statements: If / Else and Select Case.
-- Supports For and While loops.
+- Supports conditional statements: `If / Else` and `Select Case`.
+- Supports `For` and `While` loops.
 - Allows defining and calling user-defined functions within Formula scripts.
 - Provides file and folder operations.
-- Allows accessing Recordset data.
-- Supports Formula scripts for evaluating field values.
+- Supports accessing and processing Recordset data.
+- Enables Formula expressions to calculate and return field values.
 
 ## The M.M.A. Reports Architecture
 
