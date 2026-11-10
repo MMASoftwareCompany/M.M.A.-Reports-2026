@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
+<img src="Images/MMA-Reports-Main.png" width="100%" alt="M.M.A. Reports Main Banner">
 
 # M.M.A. Reports
 
