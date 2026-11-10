@@ -48,6 +48,42 @@ The scripting environment, which provides additional programming capabilities fo
 
 Together, these components establish an integrated architecture for report design, processing, execution, and presentation.
 
+## Screenshots
+
+Explore the main interfaces and capabilities of M.M.A. Reports through the following screenshots.
+
+### 1. Designer Interface
+
+The report design environment, where developers can create and organize report layouts.
+
+<p align="center">
+  <img src="Images/Designer-Interface.png" width="100%" alt="M.M.A. Reports Designer Interface">
+</p>
+
+### 2. Report Preview
+
+Preview generated reports before printing or final presentation.
+
+<p align="center">
+  <img src="Images/Report-Preview.png" width="100%" alt="M.M.A. Reports Preview">
+</p>
+
+### 3. Script Editor
+
+The scripting environment for writing and managing report-related scripts and expressions.
+
+<p align="center">
+  <img src="Images/Script-Editor.png" width="100%" alt="M.M.A. Reports Script Editor">
+</p>
+
+### 4. Report Output
+
+An example of a report generated using M.M.A. Reports.
+
+<p align="center">
+  <img src="Images/Report-Output.png" width="100%" alt="M.M.A. Reports Report Output">
+</p>
+
 ## Developed for Software Developers
 
 M.M.A. Reports is intended for developers who need to incorporate reporting capabilities into their own Windows applications.
