@@ -26,6 +26,53 @@ The system brings together the essential tools and components required throughou
 
 Rather than being limited to displaying pre-generated documents, M.M.A. Reports provides developers with a dedicated reporting infrastructure that can be integrated into their software projects to deliver reporting capabilities as part of their own applications.
 
+## Key Features
+
+M.M.A. Reports provides an integrated reporting environment built around four main components: Engine, Designer, Viewer, and Script Editor.
+
+### 1. Engine – Report Processing Engine
+
+- Supports database and data-file sources.
+- Accepts an external ADO Recordset or executes a SQL Query using a Connection String.
+- Provides data grouping and aggregation, including Sum, Average, Maximum, Minimum, Count, First, and Last.
+- Supports mathematical formulas and expressions.
+- Handles report formatting and prepares reports for printing.
+
+### 2. Designer – Visual Report Designer
+
+- Provides an intuitive visual design environment with Drag & Drop functionality.
+- Allows adding and configuring report elements: Field, Label, Image, and Line.
+- Supports precise positioning and sizing of individual objects or multiple selected objects.
+- Includes seven standard report sections:
+  - Report Header
+  - Page Header
+  - Group Header
+  - Detail
+  - Group Footer
+  - Page Footer
+  - Report Footer
+- Supports nested report groups.
+- Allows saving, reopening, and editing report designs.
+
+### 3. Viewer – Report Viewer
+
+- Displays reports page by page.
+- Provides page navigation and zoom controls.
+- Supports report preview before printing.
+- Allows direct printing.
+- Supports exporting reports to multiple formats, including PDF, XML, XLS, and other formats.
+
+### 4. Script Editor – Scripting Environment
+
+- Supports variables, constants, and arrays.
+- Provides mathematical and logical operations.
+- Supports conditional statements: If / Else and Select Case.
+- Supports For and While loops.
+- Allows defining and calling user-defined functions within Formula scripts.
+- Provides file and folder operations.
+- Allows accessing Recordset data.
+- Supports Formula scripts for evaluating field values.
+
 ## The M.M.A. Reports Architecture
 
 M.M.A. Reports consists of four principal components, each responsible for a specific part of the reporting workflow.
