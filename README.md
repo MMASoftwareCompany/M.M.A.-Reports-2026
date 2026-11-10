@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
-<img src="Images/MMA-Reports-Main.png" width="100%" alt="M.M.A. Reports Main Banner">
-
 # M.M.A. Reports
+
+<img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
 
 ### Professional Windows Reporting System
 
-**Free Edition | Engine • Designer • Viewer • Script Editor**
+**Engine • Designer • Viewer • Script Editor**
 
 **Version 1.0.0 | Free Edition**
+
+<br>
+
+<img src="Images/MMA-Reports-Main.png" width="100%" alt="M.M.A. Reports Main Banner">
 
 </div>
 
