@@ -187,9 +187,9 @@ He is also the founder and owner of:
 
 ## Official Links & Contact
 
-- **M.M.A. Reports – Official Facebook Page:**
+- **M.M.A. Reports – Official Facebook Page:** <br>
   https://www.facebook.com/profile.php?id=61595658903074
-- **Egyptian Geographic Magazine – Official Facebook Page:**
+- **Egyptian Geographic Magazine – Official Facebook Page:** <br>
   https://www.facebook.com/Geographic.Egn
 - **Official Website:** Coming Soon.
 - **Email:** MMASoftwareCompany@gmail.com
