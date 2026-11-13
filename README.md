@@ -15,8 +15,8 @@
   <br>
   <p align="center">
     
-    ( <a href="https://www.facebook.com/profile.php?id=61595658903074" target="_blank" rel="noopener noreferrer">Official Facebook Page</a> •
-    <a href="https://www.facebook.com/Geographic.Egn" target="_blank" rel="noopener noreferrer">Egyptian Geographic</a> )
+    <a href="https://www.facebook.com/profile.php?id=61595658903074" target="_blank" rel="noopener noreferrer">Official Facebook Page</a> •
+    <a href="https://www.facebook.com/Geographic.Egn" target="_blank" rel="noopener noreferrer">Egyptian Geographic</a>
   </p>
 </div>
 
