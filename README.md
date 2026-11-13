@@ -1,32 +1,22 @@
 
-<div align="center">
+<div>
+  <p align="center">
+    <a href="#about">About</a> •
+    <a href="#key-features">Key Features</a> •
+    <a href="#the-mma-reports-architecture">Architecture</a> •
+    <a href="#screenshots">Screenshots</a> •
+    <a href="#developed-for-software-developers">Developers</a> •
+    <a href="#free-edition">Free Edition</a> •
+    <a href="#about-the-author--developer">Author</a> •
+    <a href="#product-information">Product Info</a> •
+    <a href="#official-links--contact">Contact</a> •
+    <a href="#license--intellectual-property">License</a>
+  </p>
 
-<table>
-  <tr>
-    <td><a href="#about">About</a></td>
-    <td><a href="#key-features">Key Features</a></td>
-    <td><a href="#the-mma-reports-architecture">Architecture</a></td>
-    <td><a href="#screenshots">Screenshots</a></td>
-    <td><a href="#developed-for-software-developers">Developers</a></td>
-  </tr>
-  <tr>
-    <td><a href="#free-edition">Free Edition</a></td>
-    <td><a href="#about-the-author--developer">Author</a></td>
-    <td><a href="#product-information">Product Info</a></td>
-    <td><a href="#official-links--contact">Contact</a></td>
-    <td><a href="#license--intellectual-property">License</a></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td><a href="https://www.facebook.com/profile.php?id=61595658903074" target="_blank" rel="noopener noreferrer">Official Facebook Page</a></td>
-    <td><a href="https://www.facebook.com/Geographic.Egn" target="_blank" rel="noopener noreferrer">Egyptian Geographic</a></td>
-  </tr>
-</table>
-
+  <p align="center">
+    <a href="https://www.facebook.com/profile.php?id=61595658903074" target="_blank" rel="noopener noreferrer">Official Facebook Page</a> •
+    <a href="https://www.facebook.com/Geographic.Egn" target="_blank" rel="noopener noreferrer">Egyptian Geographic</a>
+  </p>
 </div>
 
 <br>
