@@ -1,18 +1,17 @@
 <div>
   <p align="center">
-  <a href="#about">About</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#developed-for-software-developers">Developers</a> •
-  <a href="#free-edition">Free Edition</a> •
-  <a href="#product-information">Product Info</a> •
-  <a href="#license--intellectual-property">License</a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61595658903074">Official Facebook Page</a> •
-  <a href="https://www.facebook.com/Geographic.Egn">Egyptian Geographic</a>
-</p>
+    <a href="#about">About</a> •
+    <a href="#key-features">Key Features</a> •
+    <a href="#screenshots">Screenshots</a> •
+    <a href="#developed-for-software-developers">Developers</a> •
+    <a href="#free-edition">Free Edition</a> •
+    <a href="#product-information">Product Info</a> •
+    <a href="#license--intellectual-property">License</a>
+  </p>
+  <p align="center">
+    <a href="https://www.facebook.com/profile.php?id=61595658903074">Official Facebook Page</a> •
+    <a href="https://www.facebook.com/Geographic.Egn">Egyptian Geographic</a>
+  </p>
 </div>
 
 <div align="center">
