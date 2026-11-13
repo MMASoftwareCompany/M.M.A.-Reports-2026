@@ -197,8 +197,20 @@ He is also the founder and owner of:
 
 ## License & Intellectual Property
 
-M.M.A. Reports is proprietary software. The Free Edition is distributed without source code and is governed by the **M.M.A. Reports Free Edition License Agreement**.
+M.M.A. Reports is privately owned, proprietary software developed and published as an independent software product.
 
-All rights relating to M.M.A. Reports, including its software components, source code, internal implementation, algorithms, architectural design, product names, and associated logos, are reserved by M.M.A.
+The Free Edition is distributed without source code and is governed by the **M.M.A. Reports Free Edition License Agreement**.
+
+All intellectual property rights associated with M.M.A. Reports, including its software components, source code, internal implementation, algorithms, architectural design, product names, trademarks, and associated logos, are reserved exclusively by the respective rights holder.
+
+M.M.A. Reports and its associated intellectual property are protected under applicable intellectual property laws. Official registration and deposit details, where applicable, shall be supported by their corresponding legal records.
+
+The distribution of the Free Edition does not constitute a transfer of ownership or intellectual property rights to its users. All rights not expressly granted under the License Agreement remain reserved.
 
 **Copyright © 2026 M.M.A. All Rights Reserved.**
+
+### License Agreement
+
+The following document presents the M.M.A. Reports Free Edition License Agreement in both Arabic and English.
+
+![M.M.A. Reports License Agreement](Images/License.jpg)
