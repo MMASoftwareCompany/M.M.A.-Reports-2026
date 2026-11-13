@@ -27,7 +27,7 @@
 
 <img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
 
-# M.M.A. Reports
+<Font Size=25>M.M.A. Reports</Font>
 
 ### Professional Windows Reporting System
 
