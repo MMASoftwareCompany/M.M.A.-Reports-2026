@@ -27,9 +27,9 @@
 
 <img src="Images/MMA-Reports-Logo.png" width="180" alt="M.M.A. Reports Logo">
 
-M.M.A. Reports
+# M.M.A. Reports
 
-### Professional Windows Reporting System
+## Professional Windows Reporting System
 
 **Engine • Designer • Viewer • Script Editor**
 
